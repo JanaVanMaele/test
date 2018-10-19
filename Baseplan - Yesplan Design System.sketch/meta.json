@@ -1,28 +1,5 @@
 {
   "commit" : "623a23f2c4848acdbb1a38c2689e571eb73eb823",
-  "build" : 67145,
-  "version" : 112,
-  "fonts" : [
-    "SFProText-Regular",
-    "SFProText-Medium"
-  ],
-  "compatibilityVersion" : 99,
-  "app" : "com.bohemiancoding.sketch3",
-  "autosaved" : 0,
-  "variant" : "NONAPPSTORE",
-  "created" : {
-    "commit" : "623a23f2c4848acdbb1a38c2689e571eb73eb823",
-    "appVersion" : "52.2",
-    "build" : 67145,
-    "app" : "com.bohemiancoding.sketch3",
-    "compatibilityVersion" : 99,
-    "version" : 112,
-    "variant" : "NONAPPSTORE"
-  },
-  "saveHistory" : [
-    "NONAPPSTORE.67145"
-  ],
-  "appVersion" : "52.2",
   "pagesAndArtboards" : {
     "01B4FBEF-9041-4E7A-AB8A-BD37861E53F0" : {
       "name" : "Icons",
@@ -55,11 +32,33 @@
         }
       }
     },
+    "CCDBC837-FB47-4D40-88D7-631331B00CD3" : {
+      "name" : "Functional Colors",
+      "artboards" : {
+
+      }
+    },
     "BBF96F44-5D66-4325-9D0A-DB5C2736A4AC" : {
       "name" : "Buttons",
       "artboards" : {
         "6A15D499-9E0A-416C-96FD-97504967EF6F" : {
           "name" : "Buttons"
+        }
+      }
+    },
+    "A0DF4496-9F8F-4F64-A433-E5C74AF28B2E" : {
+      "name" : "Whitespace Scale",
+      "artboards" : {
+        "34C206F0-84B2-4CB1-8313-4CC1E1BE9AA9" : {
+          "name" : "Whitespace Scale"
+        }
+      }
+    },
+    "5CC4C12E-F0F2-4D18-9191-B890DCFC9D5F" : {
+      "name" : "Color Palette",
+      "artboards" : {
+        "5CB679B8-F803-4516-AF4A-EBDC6D907FA2" : {
+          "name" : "Color Palette"
         }
       }
     },
@@ -76,22 +75,29 @@
           "name" : "Palette\/Primary Action"
         }
       }
-    },
-    "5CC4C12E-F0F2-4D18-9191-B890DCFC9D5F" : {
-      "name" : "Color Palette",
-      "artboards" : {
-        "5CB679B8-F803-4516-AF4A-EBDC6D907FA2" : {
-          "name" : "Color Palette"
-        }
-      }
-    },
-    "A0DF4496-9F8F-4F64-A433-E5C74AF28B2E" : {
-      "name" : "Whitespace Scale",
-      "artboards" : {
-        "34C206F0-84B2-4CB1-8313-4CC1E1BE9AA9" : {
-          "name" : "Whitespace Scale"
-        }
-      }
     }
-  }
+  },
+  "version" : 112,
+  "fonts" : [
+    "SFProText-Regular",
+    "SFProText-Medium"
+  ],
+  "compatibilityVersion" : 99,
+  "app" : "com.bohemiancoding.sketch3",
+  "autosaved" : 0,
+  "variant" : "NONAPPSTORE",
+  "created" : {
+    "build" : 67145,
+    "appVersion" : "52.2",
+    "commit" : "623a23f2c4848acdbb1a38c2689e571eb73eb823",
+    "app" : "com.bohemiancoding.sketch3",
+    "compatibilityVersion" : 99,
+    "version" : 112,
+    "variant" : "NONAPPSTORE"
+  },
+  "saveHistory" : [
+    "NONAPPSTORE.67145"
+  ],
+  "appVersion" : "52.2",
+  "build" : 67145
 }

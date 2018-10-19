@@ -1,0 +1,140 @@
+{
+  "isFlippedHorizontal" : false,
+  "style" : {
+    "windingRule" : 1,
+    "_class" : "style",
+    "miterLimit" : 10,
+    "startMarkerType" : 0,
+    "endMarkerType" : 0
+  },
+  "rotation" : 0,
+  "frame" : {
+    "x" : 0,
+    "y" : 0,
+    "_class" : "rect",
+    "constrainProportions" : false,
+    "height" : 0,
+    "width" : 0
+  },
+  "do_objectID" : "CCDBC837-FB47-4D40-88D7-631331B00CD3",
+  "layerListExpandedType" : 0,
+  "exportOptions" : {
+    "shouldTrim" : false,
+    "includedLayerIds" : [
+
+    ],
+    "layerOptions" : 0,
+    "_class" : "exportOptions",
+    "exportFormats" : [
+
+    ]
+  },
+  "hasClickThrough" : true,
+  "horizontalRulerData" : {
+    "base" : -492,
+    "_class" : "rulerData",
+    "guides" : [
+
+    ]
+  },
+  "includeInCloudUpload" : true,
+  "verticalRulerData" : {
+    "base" : -332,
+    "_class" : "rulerData",
+    "guides" : [
+
+    ]
+  },
+  "isFlippedVertical" : false,
+  "nameIsFixed" : true,
+  "name" : "Functional Colors",
+  "isVisible" : true,
+  "resizingType" : 0,
+  "clippingMaskMode" : 0,
+  "hasClippingMask" : false,
+  "layers" : [
+    {
+      "isFlippedHorizontal" : false,
+      "style" : {
+        "windingRule" : 1,
+        "do_objectID" : "56918D8D-BB80-4843-9B61-678DEB6AA418",
+        "_class" : "style",
+        "miterLimit" : 10,
+        "startMarkerType" : 0,
+        "endMarkerType" : 0
+      },
+      "rotation" : 0,
+      "frame" : {
+        "_class" : "rect",
+        "height" : 374,
+        "do_objectID" : "2D19853E-4778-4EFD-964A-8AF4380155E7",
+        "constrainProportions" : true,
+        "x" : -323,
+        "width" : 397,
+        "y" : -362
+      },
+      "do_objectID" : "6BFA3BA4-E55A-4D56-BEB9-A9145DD068E3",
+      "layerListExpandedType" : 0,
+      "exportOptions" : {
+        "shouldTrim" : false,
+        "do_objectID" : "33A20D98-5A8A-4C36-BC38-85BD18EA4228",
+        "includedLayerIds" : [
+
+        ],
+        "_class" : "exportOptions",
+        "layerOptions" : 0,
+        "exportFormats" : [
+
+        ]
+      },
+      "image" : {
+        "_ref_class" : "MSImageData",
+        "_class" : "MSJSONFileReference",
+        "_ref" : "images\/30b3c53dabf5afec4af24a2f259eb9d7ec0c78d8.png"
+      },
+      "isFlippedVertical" : false,
+      "nameIsFixed" : false,
+      "name" : "Image 2018-09-19 at 11.17.53 AM",
+      "isVisible" : true,
+      "resizingType" : 0,
+      "userInfo" : {
+        "com.animaapp.stc-sketch-plugin" : {
+          "kModelPropertiesKey" : {
+            "constraints" : {
+              "scaleFactor" : 1,
+              "model_version" : 0.10000000000000001,
+              "aspectRatio" : {
+                "modelID" : "constraint_b4652dbe-933a-43da-a0a7-1e19304bcec7",
+                "enabled" : 1,
+                "multiplier" : 397,
+                "model_class" : "ADModelConstraint",
+                "constant" : 374,
+                "model_version" : 0.10000000000000001
+              },
+              "modelID" : "viewConstraints_0aa46c73-a606-4d4b-8d62-49b5688bca3b",
+              "model_class" : "ADModelViewConstraints",
+              "automatic" : 1
+            }
+          }
+        }
+      },
+      "clippingMaskMode" : 0,
+      "hasClippingMask" : false,
+      "clippingMask" : "{{0, 0}, {1, 1}}",
+      "isLocked" : false,
+      "shouldBreakMaskChain" : false,
+      "isFixedToViewport" : false,
+      "fillReplacesImage" : false,
+      "_class" : "bitmap",
+      "booleanOperation" : -1,
+      "resizingConstraint" : 63,
+      "intendedDPI" : 144
+    }
+  ],
+  "isLocked" : false,
+  "shouldBreakMaskChain" : false,
+  "isFixedToViewport" : false,
+  "_class" : "page",
+  "booleanOperation" : -1,
+  "resizingConstraint" : 63
+}
