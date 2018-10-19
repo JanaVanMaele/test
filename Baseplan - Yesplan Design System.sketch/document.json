@@ -88,6 +88,11 @@
     {
       "_ref_class" : "MSImmutablePage",
       "_class" : "MSJSONFileReference",
+      "_ref" : "pages\/CCDBC837-FB47-4D40-88D7-631331B00CD3"
+    },
+    {
+      "_ref_class" : "MSImmutablePage",
+      "_class" : "MSJSONFileReference",
       "_ref" : "pages\/A0DF4496-9F8F-4F64-A433-E5C74AF28B2E"
     },
     {
@@ -143,14 +148,14 @@
                 "blue" : 0,
                 "green" : 0
               },
-              "textStyleVerticalAlignmentKey" : 0,
               "kerning" : 0.21538460000000001,
+              "textStyleVerticalAlignmentKey" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 24,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 24,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 24
               }
             }
           },
@@ -170,7 +175,6 @@
             "verticalAlignment" : 0,
             "_class" : "textStyle",
             "encodedAttributes" : {
-              "ligature" : 0,
               "MSAttributedStringFontAttribute" : {
                 "attributes" : {
                   "name" : "SFProText-Regular",
@@ -185,12 +189,13 @@
                 "blue" : 0,
                 "green" : 0
               },
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 20,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 20,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 20
               }
             }
           },
@@ -210,14 +215,6 @@
             "verticalAlignment" : 0,
             "_class" : "textStyle",
             "encodedAttributes" : {
-              "ligature" : 0,
-              "MSAttributedStringColorAttribute" : {
-                "red" : 0,
-                "_class" : "color",
-                "alpha" : 0.87,
-                "blue" : 0,
-                "green" : 0
-              },
               "MSAttributedStringFontAttribute" : {
                 "attributes" : {
                   "name" : "SFProText-Regular",
@@ -225,11 +222,19 @@
                 },
                 "_class" : "fontDescriptor"
               },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.87,
+                "blue" : 0,
+                "green" : 0
+              },
+              "ligature" : 0,
               "paragraphStyle" : {
                 "minimumLineHeight" : 20,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 20,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 20
               }
             }
           },
@@ -249,7 +254,6 @@
             "verticalAlignment" : 0,
             "_class" : "textStyle",
             "encodedAttributes" : {
-              "ligature" : 0,
               "MSAttributedStringFontAttribute" : {
                 "attributes" : {
                   "name" : "SFProText-Regular",
@@ -264,12 +268,13 @@
                 "blue" : 0,
                 "green" : 0
               },
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 24,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 24,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 24
               }
             }
           },
@@ -296,7 +301,6 @@
                 },
                 "_class" : "fontDescriptor"
               },
-              "ligature" : 0,
               "MSAttributedStringColorAttribute" : {
                 "red" : 0,
                 "_class" : "color",
@@ -304,12 +308,13 @@
                 "blue" : 0,
                 "green" : 0
               },
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 28,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 28,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 28
               }
             }
           },
@@ -343,14 +348,14 @@
                 "blue" : 0,
                 "green" : 0
               },
-              "ligature" : 0,
               "kerning" : 0.60000002384185791,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 16,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 16,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 16
               }
             }
           },
@@ -384,14 +389,14 @@
                 "blue" : 0,
                 "green" : 0
               },
-              "textStyleVerticalAlignmentKey" : 0,
               "kerning" : 0.20000000298023221,
+              "textStyleVerticalAlignmentKey" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 24,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 24,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 24
               }
             }
           },
@@ -425,14 +430,14 @@
                 "blue" : 0,
                 "green" : 0
               },
-              "ligature" : 0,
               "kerning" : 0,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 20,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 20,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 20
               }
             }
           },
@@ -466,13 +471,13 @@
                 "blue" : 0,
                 "green" : 0
               },
-              "ligature" : 0,
               "kerning" : 0,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "minimumLineHeight" : 20,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 20,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 20
               }
             }
           },
@@ -506,14 +511,14 @@
                 "blue" : 0,
                 "green" : 0
               },
-              "ligature" : 0,
               "kerning" : 0.25,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 24,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 24,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 24
               }
             }
           },
@@ -533,7 +538,6 @@
             "verticalAlignment" : 0,
             "_class" : "textStyle",
             "encodedAttributes" : {
-              "ligature" : 0,
               "MSAttributedStringFontAttribute" : {
                 "attributes" : {
                   "name" : "SFProText-Regular",
@@ -548,12 +552,13 @@
                 "blue" : 0,
                 "green" : 0
               },
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 28,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 28,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 28
               }
             }
           },
@@ -587,14 +592,14 @@
                 "blue" : 0,
                 "green" : 0
               },
-              "ligature" : 0,
               "kerning" : 0.60000002384185791,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 16,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 16,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 16
               }
             }
           },
@@ -628,14 +633,14 @@
                 "blue" : 1,
                 "green" : 1
               },
-              "textStyleVerticalAlignmentKey" : 0,
               "kerning" : 0.20000000298023221,
+              "textStyleVerticalAlignmentKey" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 24,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 24,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 24
               }
             }
           },
@@ -669,14 +674,14 @@
                 "blue" : 1,
                 "green" : 1
               },
-              "ligature" : 0,
               "kerning" : 0,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 20,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 20,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 20
               }
             }
           },
@@ -710,13 +715,13 @@
                 "blue" : 1,
                 "green" : 1
               },
-              "ligature" : 0,
               "kerning" : 0,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "minimumLineHeight" : 20,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 20,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 20
               }
             }
           },
@@ -750,14 +755,14 @@
                 "blue" : 1,
                 "green" : 1
               },
-              "ligature" : 0,
               "kerning" : 0,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 24,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 24,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 24
               }
             }
           },
@@ -777,7 +782,6 @@
             "verticalAlignment" : 0,
             "_class" : "textStyle",
             "encodedAttributes" : {
-              "ligature" : 0,
               "MSAttributedStringFontAttribute" : {
                 "attributes" : {
                   "name" : "SFProText-Regular",
@@ -792,12 +796,13 @@
                 "blue" : 1,
                 "green" : 1
               },
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 28,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 28,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 28
               }
             }
           },
@@ -831,14 +836,14 @@
                 "blue" : 1,
                 "green" : 1
               },
-              "ligature" : 0,
               "kerning" : 0.60000002384185791,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 16,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 16,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 16
               }
             }
           },
@@ -872,14 +877,14 @@
                 "blue" : 1,
                 "green" : 1
               },
-              "textStyleVerticalAlignmentKey" : 0,
               "kerning" : 0,
+              "textStyleVerticalAlignmentKey" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 20,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 20,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 20
               }
             }
           },
@@ -913,14 +918,14 @@
                 "blue" : 1,
                 "green" : 1
               },
-              "ligature" : 0,
               "kerning" : 0,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 20,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 20,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 20
               }
             }
           },
@@ -954,13 +959,13 @@
                 "blue" : 1,
                 "green" : 1
               },
-              "ligature" : 0,
               "kerning" : 0.24907580000000001,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "minimumLineHeight" : 20,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 20,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 20
               }
             }
           },
@@ -994,14 +999,14 @@
                 "blue" : 1,
                 "green" : 1
               },
-              "ligature" : 0,
               "kerning" : 0,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 24,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 24,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 24
               }
             }
           },
@@ -1021,7 +1026,6 @@
             "verticalAlignment" : 0,
             "_class" : "textStyle",
             "encodedAttributes" : {
-              "ligature" : 0,
               "MSAttributedStringFontAttribute" : {
                 "attributes" : {
                   "name" : "SFProText-Regular",
@@ -1036,12 +1040,13 @@
                 "blue" : 1,
                 "green" : 1
               },
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 28,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 28,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 28
               }
             }
           },
@@ -1075,14 +1080,14 @@
                 "blue" : 1,
                 "green" : 1
               },
-              "ligature" : 0,
               "kerning" : 0.60000002384185791,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 16,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 16,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 16
               }
             }
           },
@@ -1116,14 +1121,14 @@
                 "blue" : 0.94901960784313721,
                 "green" : 0.19999999999999979
               },
-              "ligature" : 0,
               "kerning" : 0,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 20,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 20,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 20
               }
             }
           },
@@ -1157,13 +1162,13 @@
                 "blue" : 0.94901960784313721,
                 "green" : 0.19999999999999979
               },
-              "ligature" : 0,
               "kerning" : 0,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "minimumLineHeight" : 20,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 20,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 20
               }
             }
           },
@@ -1197,14 +1202,14 @@
                 "blue" : 0.94901960784313721,
                 "green" : 0.19999999999999979
               },
-              "ligature" : 0,
               "kerning" : 0,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 24,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 24,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 24
               }
             }
           },
@@ -1224,7 +1229,6 @@
             "verticalAlignment" : 0,
             "_class" : "textStyle",
             "encodedAttributes" : {
-              "ligature" : 0,
               "MSAttributedStringFontAttribute" : {
                 "attributes" : {
                   "name" : "SFProText-Regular",
@@ -1239,12 +1243,13 @@
                 "blue" : 0.94901960784313721,
                 "green" : 0.19999999999999979
               },
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 28,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 28,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 28
               }
             }
           },
@@ -1278,14 +1283,14 @@
                 "blue" : 0.94901960784313721,
                 "green" : 0.19999999999999979
               },
-              "ligature" : 0,
               "kerning" : 0.60000002384185791,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 16,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 16,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 16
               }
             }
           },
@@ -1319,14 +1324,14 @@
                 "blue" : 0.94901960784313721,
                 "green" : 0.25098039215686252
               },
-              "ligature" : 0,
               "kerning" : 0.14944550000000001,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 24,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 24,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 24
               }
             }
           },
@@ -1360,13 +1365,13 @@
                 "blue" : 0.94901960784313721,
                 "green" : 0.25098039215686252
               },
-              "ligature" : 0,
               "kerning" : 0.24907580000000001,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "minimumLineHeight" : 20,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 20,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 20
               }
             }
           },
@@ -1400,14 +1405,14 @@
                 "blue" : 0.94901960784313721,
                 "green" : 0.25098039215686252
               },
-              "ligature" : 0,
               "kerning" : 0.24907580000000001,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 28,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 28,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 28
               }
             }
           },
@@ -1446,8 +1451,8 @@
                 "alignment" : 0,
                 "minimumLineHeight" : 32,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 32,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 32
               }
             }
           },
@@ -1481,14 +1486,14 @@
                 "blue" : 0.94901960784313721,
                 "green" : 0.25098039215686252
               },
-              "ligature" : 0,
               "kerning" : 0.60000002384185791,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 16,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 16,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 16
               }
             }
           },
@@ -1522,14 +1527,14 @@
                 "blue" : 0.94901960784313721,
                 "green" : 0.25098039215686252
               },
-              "textStyleVerticalAlignmentKey" : 0,
               "kerning" : 1,
+              "textStyleVerticalAlignmentKey" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 24,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 24,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 24
               }
             }
           },
@@ -1549,14 +1554,6 @@
             "verticalAlignment" : 0,
             "_class" : "textStyle",
             "encodedAttributes" : {
-              "ligature" : 0,
-              "MSAttributedStringColorAttribute" : {
-                "red" : 0,
-                "_class" : "color",
-                "alpha" : 0.87,
-                "blue" : 0,
-                "green" : 0
-              },
               "MSAttributedStringFontAttribute" : {
                 "attributes" : {
                   "name" : "SFProText-Medium",
@@ -1564,12 +1561,20 @@
                 },
                 "_class" : "fontDescriptor"
               },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.87,
+                "blue" : 0,
+                "green" : 0
+              },
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 20,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 20,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 20
               }
             }
           },
@@ -1603,14 +1608,14 @@
                 "blue" : 0.94901960784313721,
                 "green" : 0.19999999999999979
               },
-              "textStyleVerticalAlignmentKey" : 0,
               "kerning" : 0.20000000298023221,
+              "textStyleVerticalAlignmentKey" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 24,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 24,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 24
               }
             }
           },
@@ -1644,14 +1649,14 @@
                 "blue" : 1,
                 "green" : 1
               },
-              "ligature" : 0,
               "kerning" : 0,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 20,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 20,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 20
               }
             }
           },
@@ -1685,14 +1690,14 @@
                 "blue" : 1,
                 "green" : 1
               },
-              "ligature" : 0,
               "kerning" : 0,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 20,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 20,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 20
               }
             }
           },
@@ -1726,14 +1731,14 @@
                 "blue" : 0.94901960784313721,
                 "green" : 0.19999999999999979
               },
-              "ligature" : 0,
               "kerning" : 0,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 20,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 20,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 20
               }
             }
           },
@@ -1767,14 +1772,14 @@
                 "blue" : 0,
                 "green" : 0
               },
-              "ligature" : 0,
               "kerning" : 0,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 20,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 20,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 20
               }
             }
           },
@@ -1794,7 +1799,6 @@
             "verticalAlignment" : 0,
             "_class" : "textStyle",
             "encodedAttributes" : {
-              "ligature" : 0,
               "MSAttributedStringFontAttribute" : {
                 "attributes" : {
                   "name" : "SFProText-Regular",
@@ -1809,12 +1813,13 @@
                 "blue" : 0,
                 "green" : 0
               },
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 28,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 28,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 28
               }
             }
           },
@@ -1848,14 +1853,14 @@
                 "blue" : 0,
                 "green" : 0
               },
-              "ligature" : 0,
               "kerning" : 0.25,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 24,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 24,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 24
               }
             }
           },
@@ -1889,14 +1894,14 @@
                 "blue" : 0,
                 "green" : 0
               },
-              "ligature" : 0,
               "kerning" : 0,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 20,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 20,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 20
               }
             }
           },
@@ -1930,13 +1935,13 @@
                 "blue" : 0,
                 "green" : 0
               },
-              "ligature" : 0,
               "kerning" : 0,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "minimumLineHeight" : 20,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 20,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 20
               }
             }
           },
@@ -1970,14 +1975,14 @@
                 "blue" : 0,
                 "green" : 0
               },
-              "ligature" : 0,
               "kerning" : 0.60000002384185791,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 16,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 16,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 16
               }
             }
           },
@@ -2011,14 +2016,14 @@
                 "blue" : 0,
                 "green" : 0
               },
-              "textStyleVerticalAlignmentKey" : 0,
               "kerning" : 0.20000000298023221,
+              "textStyleVerticalAlignmentKey" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 24,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 24,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 24
               }
             }
           },
@@ -2052,14 +2057,14 @@
                 "blue" : 0,
                 "green" : 0
               },
-              "ligature" : 0,
               "kerning" : 0,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 20,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 20,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 20
               }
             }
           },
@@ -2079,7 +2084,6 @@
             "verticalAlignment" : 0,
             "_class" : "textStyle",
             "encodedAttributes" : {
-              "ligature" : 0,
               "MSAttributedStringFontAttribute" : {
                 "attributes" : {
                   "name" : "SFProText-Regular",
@@ -2094,12 +2098,13 @@
                 "blue" : 0.94901960784313721,
                 "green" : 0.19999999999999979
               },
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 28,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 28,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 28
               }
             }
           },
@@ -2133,14 +2138,14 @@
                 "blue" : 0.94901960784313721,
                 "green" : 0.19999999999999979
               },
-              "ligature" : 0,
               "kerning" : 0,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 24,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 24,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 24
               }
             }
           },
@@ -2174,14 +2179,14 @@
                 "blue" : 0.94901960784313721,
                 "green" : 0.19999999999999979
               },
-              "ligature" : 0,
               "kerning" : 0,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 20,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 20,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 20
               }
             }
           },
@@ -2215,13 +2220,13 @@
                 "blue" : 0.94901960784313721,
                 "green" : 0.19999999999999979
               },
-              "ligature" : 0,
               "kerning" : 0,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "minimumLineHeight" : 20,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 20,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 20
               }
             }
           },
@@ -2255,14 +2260,14 @@
                 "blue" : 0.94901960784313721,
                 "green" : 0.19999999999999979
               },
-              "ligature" : 0,
               "kerning" : 0.60000002384185791,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 16,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 16,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 16
               }
             }
           },
@@ -2296,14 +2301,14 @@
                 "blue" : 0.94901960784313721,
                 "green" : 0.19999999999999979
               },
-              "textStyleVerticalAlignmentKey" : 0,
               "kerning" : 0.20000000298023221,
+              "textStyleVerticalAlignmentKey" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 24,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 24,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 24
               }
             }
           },
@@ -2337,14 +2342,14 @@
                 "blue" : 0.94901960784313721,
                 "green" : 0.19999999999999979
               },
-              "ligature" : 0,
               "kerning" : 0,
+              "ligature" : 0,
               "paragraphStyle" : {
                 "alignment" : 0,
                 "minimumLineHeight" : 20,
                 "_class" : "paragraphStyle",
-                "maximumLineHeight" : 20,
-                "allowsDefaultTighteningForTruncation" : 0
+                "allowsDefaultTighteningForTruncation" : 0,
+                "maximumLineHeight" : 20
               }
             }
           },
