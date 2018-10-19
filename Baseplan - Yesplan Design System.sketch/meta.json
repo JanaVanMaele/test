@@ -1,0 +1,97 @@
+{
+  "commit" : "623a23f2c4848acdbb1a38c2689e571eb73eb823",
+  "build" : 67145,
+  "version" : 112,
+  "fonts" : [
+    "SFProText-Regular",
+    "SFProText-Medium"
+  ],
+  "compatibilityVersion" : 99,
+  "app" : "com.bohemiancoding.sketch3",
+  "autosaved" : 0,
+  "variant" : "NONAPPSTORE",
+  "created" : {
+    "commit" : "623a23f2c4848acdbb1a38c2689e571eb73eb823",
+    "appVersion" : "52.2",
+    "build" : 67145,
+    "app" : "com.bohemiancoding.sketch3",
+    "compatibilityVersion" : 99,
+    "version" : 112,
+    "variant" : "NONAPPSTORE"
+  },
+  "saveHistory" : [
+    "NONAPPSTORE.67145"
+  ],
+  "appVersion" : "52.2",
+  "pagesAndArtboards" : {
+    "01B4FBEF-9041-4E7A-AB8A-BD37861E53F0" : {
+      "name" : "Icons",
+      "artboards" : {
+        "DC0D6F0D-F905-45A9-9032-C268518E1B33" : {
+          "name" : "Defined Sizes"
+        },
+        "5BF7C7C4-B4B6-4501-B5D7-FA03EE263C12" : {
+          "name" : "Google MD Icon Grid 400"
+        },
+        "3E4FCA53-D37B-4D0B-A9D7-A0C10AC01A00" : {
+          "name" : "Icon Grid 24, 20, 16"
+        }
+      }
+    },
+    "34A37FB2-2733-483A-BA72-0D0BEC5B8279" : {
+      "name" : "Lists",
+      "artboards" : {
+
+      }
+    },
+    "B18DA328-546E-4F19-A3BA-E676A7EC307A" : {
+      "name" : "Typographic Style",
+      "artboards" : {
+        "53D530D6-A3E9-487D-8AE8-A9A5E32CD47C" : {
+          "name" : "Typographic Scale"
+        },
+        "DE9D3949-73A4-4F3E-8B75-8F47CBA1F8A0" : {
+          "name" : "Artboard"
+        }
+      }
+    },
+    "BBF96F44-5D66-4325-9D0A-DB5C2736A4AC" : {
+      "name" : "Buttons",
+      "artboards" : {
+        "6A15D499-9E0A-416C-96FD-97504967EF6F" : {
+          "name" : "Buttons"
+        }
+      }
+    },
+    "CE27B8C5-79BC-4947-8E16-7427C36310D0" : {
+      "name" : "Symbols",
+      "artboards" : {
+        "893BED9E-A2C2-47B6-BC07-DBFF1B43E605" : {
+          "name" : "Palette\/Surface"
+        },
+        "B0388483-6CD5-4D83-8163-770ED55095C1" : {
+          "name" : "navigate-next"
+        },
+        "EC7DC6C6-085B-4883-8DB0-A4512DC86792" : {
+          "name" : "Palette\/Primary Action"
+        }
+      }
+    },
+    "5CC4C12E-F0F2-4D18-9191-B890DCFC9D5F" : {
+      "name" : "Color Palette",
+      "artboards" : {
+        "5CB679B8-F803-4516-AF4A-EBDC6D907FA2" : {
+          "name" : "Color Palette"
+        }
+      }
+    },
+    "A0DF4496-9F8F-4F64-A433-E5C74AF28B2E" : {
+      "name" : "Whitespace Scale",
+      "artboards" : {
+        "34C206F0-84B2-4CB1-8313-4CC1E1BE9AA9" : {
+          "name" : "Whitespace Scale"
+        }
+      }
+    }
+  }
+}

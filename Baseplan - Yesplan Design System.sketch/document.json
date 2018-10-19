@@ -1,0 +1,2378 @@
+{
+  "layerStyles" : {
+    "objects" : [
+      {
+        "do_objectID" : "8841156F-5ED5-41C5-B2DB-B4EBC72E37B3",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "thickness" : 1,
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : false,
+              "position" : 1,
+              "color" : {
+                "red" : 0.59199999999999997,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.59199999999999997,
+                "green" : 0.59199999999999997
+              }
+            }
+          ],
+          "miterLimit" : 10,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.14249999999999999,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.95000000000000007,
+                "green" : 0.20979166666666649
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "startMarkerType" : 0,
+          "windingRule" : 1,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Palette\/Primary Action"
+      }
+    ],
+    "_class" : "sharedStyleContainer"
+  },
+  "assets" : {
+    "gradients" : [
+
+    ],
+    "colors" : [
+      {
+        "red" : 0.12941176470588231,
+        "_class" : "color",
+        "alpha" : 1,
+        "blue" : 0.94901960784313721,
+        "green" : 0.19999999999999979
+      }
+    ],
+    "_class" : "assetCollection",
+    "imageCollection" : {
+      "images" : {
+
+      },
+      "_class" : "imageCollection"
+    },
+    "images" : [
+
+    ]
+  },
+  "pages" : [
+    {
+      "_ref_class" : "MSImmutablePage",
+      "_class" : "MSJSONFileReference",
+      "_ref" : "pages\/5CC4C12E-F0F2-4D18-9191-B890DCFC9D5F"
+    },
+    {
+      "_ref_class" : "MSImmutablePage",
+      "_class" : "MSJSONFileReference",
+      "_ref" : "pages\/B18DA328-546E-4F19-A3BA-E676A7EC307A"
+    },
+    {
+      "_ref_class" : "MSImmutablePage",
+      "_class" : "MSJSONFileReference",
+      "_ref" : "pages\/A0DF4496-9F8F-4F64-A433-E5C74AF28B2E"
+    },
+    {
+      "_ref_class" : "MSImmutablePage",
+      "_class" : "MSJSONFileReference",
+      "_ref" : "pages\/BBF96F44-5D66-4325-9D0A-DB5C2736A4AC"
+    },
+    {
+      "_ref_class" : "MSImmutablePage",
+      "_class" : "MSJSONFileReference",
+      "_ref" : "pages\/01B4FBEF-9041-4E7A-AB8A-BD37861E53F0"
+    },
+    {
+      "_ref_class" : "MSImmutablePage",
+      "_class" : "MSJSONFileReference",
+      "_ref" : "pages\/34A37FB2-2733-483A-BA72-0D0BEC5B8279"
+    },
+    {
+      "_ref_class" : "MSImmutablePage",
+      "_class" : "MSJSONFileReference",
+      "_ref" : "pages\/CE27B8C5-79BC-4947-8E16-7427C36310D0"
+    }
+  ],
+  "foreignSymbols" : [
+
+  ],
+  "currentPageIndex" : 1,
+  "_class" : "document",
+  "foreignLayerStyles" : [
+
+  ],
+  "colorSpace" : 0,
+  "layerTextStyles" : {
+    "objects" : [
+      {
+        "do_objectID" : "A31D0AD7-DF62-4846-9152-C5F472B1785E",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Medium",
+                  "size" : 14
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.87,
+                "blue" : 0,
+                "green" : 0
+              },
+              "textStyleVerticalAlignmentKey" : 0,
+              "kerning" : 0.21538460000000001,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 24,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 24,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Button 14 \/ High Emphasis"
+      },
+      {
+        "do_objectID" : "D10B4205-C65B-4D6B-B425-F7B49FF35A5B",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "ligature" : 0,
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 16.79999923706055
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.87,
+                "blue" : 0,
+                "green" : 0
+              },
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 20,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 20,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 3 16.8-20 \/ High Emphasis"
+      },
+      {
+        "do_objectID" : "C7CFB511-E8BA-475D-BBE5-5D365CB84C67",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "ligature" : 0,
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.87,
+                "blue" : 0,
+                "green" : 0
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 14
+                },
+                "_class" : "fontDescriptor"
+              },
+              "paragraphStyle" : {
+                "minimumLineHeight" : 20,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 20,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Body 14-20 \/ High Emphasis"
+      },
+      {
+        "do_objectID" : "DB4E87AF-D488-4FB9-9616-46A20EF49516",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "ligature" : 0,
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 20.159999847412109
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.87,
+                "blue" : 0,
+                "green" : 0
+              },
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 24,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 24,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 2 20.16-24 \/ High Emphasis"
+      },
+      {
+        "do_objectID" : "E397AE6A-F2FA-439E-834D-A34E7FBEA639",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 24.190000534057621
+                },
+                "_class" : "fontDescriptor"
+              },
+              "ligature" : 0,
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.87,
+                "blue" : 0,
+                "green" : 0
+              },
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 28,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 28,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 1 24.19-28 \/ High Emphasis"
+      },
+      {
+        "do_objectID" : "5932B3B4-CA67-435B-8F2E-30DD07F0BCE7",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 11.659999847412109
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.87,
+                "blue" : 0,
+                "green" : 0
+              },
+              "ligature" : 0,
+              "kerning" : 0.60000002384185791,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 16,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 16,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Meta 11.66-16 \/ High Emphasis"
+      },
+      {
+        "do_objectID" : "8620DFFE-F198-4489-856C-D87A16A05E51",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Medium",
+                  "size" : 14
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.59999999999999998,
+                "blue" : 0,
+                "green" : 0
+              },
+              "textStyleVerticalAlignmentKey" : 0,
+              "kerning" : 0.20000000298023221,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 24,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 24,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Button 14 \/ Medium Emphasis"
+      },
+      {
+        "do_objectID" : "FA8A3841-5E78-4F18-9F07-D17DEEE740E1",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Medium",
+                  "size" : 16.79999923706055
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.59999999999999998,
+                "blue" : 0,
+                "green" : 0
+              },
+              "ligature" : 0,
+              "kerning" : 0,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 20,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 20,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 3 16.8-20 \/ Medium Emphasis"
+      },
+      {
+        "do_objectID" : "2E2F2A53-D5BA-4DBB-A724-39EE66900071",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 14
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.59999999999999998,
+                "blue" : 0,
+                "green" : 0
+              },
+              "ligature" : 0,
+              "kerning" : 0,
+              "paragraphStyle" : {
+                "minimumLineHeight" : 20,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 20,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Body 14-20 \/ Medium Emphasis"
+      },
+      {
+        "do_objectID" : "9F6E842A-1984-4138-844D-1EB0D7A75BAF",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 20.159999847412109
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.59999999999999998,
+                "blue" : 0,
+                "green" : 0
+              },
+              "ligature" : 0,
+              "kerning" : 0.25,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 24,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 24,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 2 20.16-24 \/ Medium Emphasis"
+      },
+      {
+        "do_objectID" : "77B1F711-C44A-4434-BEEE-B264303039D6",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "ligature" : 0,
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 24.190000534057621
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.59999999999999998,
+                "blue" : 0,
+                "green" : 0
+              },
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 28,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 28,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 1 24.19-28 \/ Medium Emphasis"
+      },
+      {
+        "do_objectID" : "7C7E9D61-CDF0-40BF-838E-72D5AAF5A4C9",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 11.659999847412109
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.59999999999999998,
+                "blue" : 0,
+                "green" : 0
+              },
+              "ligature" : 0,
+              "kerning" : 0.60000002384185791,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 16,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 16,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Meta 11.66-16 \/ Medium Emphasis"
+      },
+      {
+        "do_objectID" : "F8DE295D-4DF9-4FB0-8FAF-405DA53749FE",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Medium",
+                  "size" : 14
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 1,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 1,
+                "green" : 1
+              },
+              "textStyleVerticalAlignmentKey" : 0,
+              "kerning" : 0.20000000298023221,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 24,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 24,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Button 14 \/ High Emphasis"
+      },
+      {
+        "do_objectID" : "1400EA38-CFCD-48B2-9BF5-412F5D38E0A7",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 16.79999923706055
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 1,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 1,
+                "green" : 1
+              },
+              "ligature" : 0,
+              "kerning" : 0,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 20,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 20,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 3 16.8-20 \/ High Emphasis"
+      },
+      {
+        "do_objectID" : "B58C9963-4CBD-4F8E-A478-7004058459CE",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 14
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 1,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 1,
+                "green" : 1
+              },
+              "ligature" : 0,
+              "kerning" : 0,
+              "paragraphStyle" : {
+                "minimumLineHeight" : 20,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 20,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Body 14-20 \/ High Emphasis"
+      },
+      {
+        "do_objectID" : "4A8BF9CB-BB03-4BBE-B695-7431352C0AAE",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 20.159999847412109
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 1,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 1,
+                "green" : 1
+              },
+              "ligature" : 0,
+              "kerning" : 0,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 24,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 24,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 2 20.16-24 \/ High Emphasis "
+      },
+      {
+        "do_objectID" : "6387A673-7283-4BCC-86FD-A073E352F6BE",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "ligature" : 0,
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 24.190000534057621
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 1,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 1,
+                "green" : 1
+              },
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 28,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 28,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 1 24.19-28 \/ High Emphasis"
+      },
+      {
+        "do_objectID" : "BE0B9249-C0CF-4E60-9B74-C96B4B06DABF",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 11.659999847412109
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 1,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 1,
+                "green" : 1
+              },
+              "ligature" : 0,
+              "kerning" : 0.60000002384185791,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 16,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 16,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Meta 11.66-16 \/ High Emphasis"
+      },
+      {
+        "do_objectID" : "77C7305E-9451-41C2-9268-67302AA750CC",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Medium",
+                  "size" : 14
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 1,
+                "_class" : "color",
+                "alpha" : 0.76000000000000001,
+                "blue" : 1,
+                "green" : 1
+              },
+              "textStyleVerticalAlignmentKey" : 0,
+              "kerning" : 0,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 20,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 20,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Button 14 \/ Medium Emphasis"
+      },
+      {
+        "do_objectID" : "5A166074-A471-421D-98EE-F4EFC2901201",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 16.79999923706055
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 1,
+                "_class" : "color",
+                "alpha" : 0.76000000000000001,
+                "blue" : 1,
+                "green" : 1
+              },
+              "ligature" : 0,
+              "kerning" : 0,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 20,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 20,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 3 16.8-20 \/ Medium Emphasis"
+      },
+      {
+        "do_objectID" : "E2864A36-6C86-45AB-BE77-3B98AF51A8D8",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 14
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 1,
+                "_class" : "color",
+                "alpha" : 0.59999999999999998,
+                "blue" : 1,
+                "green" : 1
+              },
+              "ligature" : 0,
+              "kerning" : 0.24907580000000001,
+              "paragraphStyle" : {
+                "minimumLineHeight" : 20,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 20,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Body 14-20 \/ Medium Emphasis"
+      },
+      {
+        "do_objectID" : "9DA657E6-B22F-4923-B629-D507330126BE",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 20.159999847412109
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 1,
+                "_class" : "color",
+                "alpha" : 0.76000000000000001,
+                "blue" : 1,
+                "green" : 1
+              },
+              "ligature" : 0,
+              "kerning" : 0,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 24,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 24,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 2 20.16-24 \/ Medium Emphasis"
+      },
+      {
+        "do_objectID" : "07EF6509-4E6C-4351-AF31-8B397ABC0F49",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "ligature" : 0,
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 24.190000534057621
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 1,
+                "_class" : "color",
+                "alpha" : 0.76000000000000001,
+                "blue" : 1,
+                "green" : 1
+              },
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 28,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 28,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 1 24.19-28 \/ Medium Emphasis"
+      },
+      {
+        "do_objectID" : "F00628A3-C7C8-4E69-923C-8B7CA77154D1",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 11.659999847412109
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 1,
+                "_class" : "color",
+                "alpha" : 0.76000000000000001,
+                "blue" : 1,
+                "green" : 1
+              },
+              "ligature" : 0,
+              "kerning" : 0.60000002384185791,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 16,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 16,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Meta 11.66-16 \/ Medium Emphasis"
+      },
+      {
+        "do_objectID" : "2F1FE6AE-F4F9-42BD-A1D0-03065BF6B550",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 16.79999923706055
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0.12941176470588231,
+                "_class" : "color",
+                "alpha" : 0.80000000000000004,
+                "blue" : 0.94901960784313721,
+                "green" : 0.19999999999999979
+              },
+              "ligature" : 0,
+              "kerning" : 0,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 20,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 20,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 3 16.8-20 \/ Medium Emphasis"
+      },
+      {
+        "do_objectID" : "37E793A0-0962-4210-AB10-307B39E1ABCA",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 14
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0.12941176470588231,
+                "_class" : "color",
+                "alpha" : 0.80000000000000004,
+                "blue" : 0.94901960784313721,
+                "green" : 0.19999999999999979
+              },
+              "ligature" : 0,
+              "kerning" : 0,
+              "paragraphStyle" : {
+                "minimumLineHeight" : 20,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 20,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Body 14-20 \/ Medium Emphasis"
+      },
+      {
+        "do_objectID" : "8E0D796E-D3EF-4FAE-9A7B-1C4914B54B82",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 20.159999847412109
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0.12941176470588231,
+                "_class" : "color",
+                "alpha" : 0.80000000000000004,
+                "blue" : 0.94901960784313721,
+                "green" : 0.19999999999999979
+              },
+              "ligature" : 0,
+              "kerning" : 0,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 24,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 24,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 2 20.16-24 \/ Medium Emphasis"
+      },
+      {
+        "do_objectID" : "29D85587-A07A-473B-ACB6-52EA3687A0D1",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "ligature" : 0,
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 24.190000534057621
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0.12941176470588231,
+                "_class" : "color",
+                "alpha" : 0.80000000000000004,
+                "blue" : 0.94901960784313721,
+                "green" : 0.19999999999999979
+              },
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 28,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 28,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 1 24.19-28 \/ Medium Emphasis"
+      },
+      {
+        "do_objectID" : "8638A12E-067E-4C94-9A2B-B6DF8CD0E631",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 11.659999847412109
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0.12941176470588231,
+                "_class" : "color",
+                "alpha" : 0.80000000000000004,
+                "blue" : 0.94901960784313721,
+                "green" : 0.19999999999999979
+              },
+              "ligature" : 0,
+              "kerning" : 0.60000002384185791,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 16,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 16,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Meta 11.66-16 \/ Medium Emphasis"
+      },
+      {
+        "do_objectID" : "052053BE-235F-4B4A-A2A2-693CC5801B14",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 16
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0.18823529411764711,
+                "_class" : "color",
+                "alpha" : 0.38,
+                "blue" : 0.94901960784313721,
+                "green" : 0.25098039215686252
+              },
+              "ligature" : 0,
+              "kerning" : 0.14944550000000001,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 24,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 24,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 3 16.8-20 \/ Disabled"
+      },
+      {
+        "do_objectID" : "2F54D17C-8F4F-4622-8172-74C79170E4FA",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 14
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0.18823529411764711,
+                "_class" : "color",
+                "alpha" : 0.38,
+                "blue" : 0.94901960784313721,
+                "green" : 0.25098039215686252
+              },
+              "ligature" : 0,
+              "kerning" : 0.24907580000000001,
+              "paragraphStyle" : {
+                "minimumLineHeight" : 20,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 20,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Body 14-20 \/ Disabled"
+      },
+      {
+        "do_objectID" : "F3975E19-C288-436E-A101-425C93687B14",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 20
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0.18823529411764711,
+                "_class" : "color",
+                "alpha" : 0.38,
+                "blue" : 0.94901960784313721,
+                "green" : 0.25098039215686252
+              },
+              "ligature" : 0,
+              "kerning" : 0.24907580000000001,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 28,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 28,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 2 20.16-24 \/ Disabled"
+      },
+      {
+        "do_objectID" : "1206E920-ED05-455E-8480-5AC7084B7BD8",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 24
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0.18823529411764711,
+                "_class" : "color",
+                "alpha" : 0.38,
+                "blue" : 0.94901960784313721,
+                "green" : 0.25098039215686252
+              },
+              "ligature" : 0,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 32,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 32,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 1 24.19-28 \/ Disabled"
+      },
+      {
+        "do_objectID" : "19077393-9E53-4AE0-BCC6-641774AEF9D7",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 12
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0.18823529411764711,
+                "_class" : "color",
+                "alpha" : 0.38,
+                "blue" : 0.94901960784313721,
+                "green" : 0.25098039215686252
+              },
+              "ligature" : 0,
+              "kerning" : 0.60000002384185791,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 16,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 16,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Meta 11.66-16 \/ Disabled"
+      },
+      {
+        "do_objectID" : "2D501200-8C1F-413C-9FEE-E00460B1B1CC",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Medium",
+                  "size" : 14
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0.18823529411764711,
+                "_class" : "color",
+                "alpha" : 0.38,
+                "blue" : 0.94901960784313721,
+                "green" : 0.25098039215686252
+              },
+              "textStyleVerticalAlignmentKey" : 0,
+              "kerning" : 1,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 24,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 24,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Button 14 \/ Disabled"
+      },
+      {
+        "do_objectID" : "A396C2FA-4296-4B98-A5CD-3896B4D484FE",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "ligature" : 0,
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.87,
+                "blue" : 0,
+                "green" : 0
+              },
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Medium",
+                  "size" : 16.79999923706055
+                },
+                "_class" : "fontDescriptor"
+              },
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 20,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 20,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 3 16.8-20 \/ High Emphasis"
+      },
+      {
+        "do_objectID" : "C1F9CDE9-804F-45B4-9AA3-3964E144630A",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Medium",
+                  "size" : 14
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0.12941176470588231,
+                "_class" : "color",
+                "alpha" : 0.80000000000000004,
+                "blue" : 0.94901960784313721,
+                "green" : 0.19999999999999979
+              },
+              "textStyleVerticalAlignmentKey" : 0,
+              "kerning" : 0.20000000298023221,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 24,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 24,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Button 14 \/ Medium Emphasis"
+      },
+      {
+        "do_objectID" : "A50974C9-39EC-4A04-9F0F-B4B3BAB3112B",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Medium",
+                  "size" : 16.79999923706055
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 1,
+                "_class" : "color",
+                "alpha" : 0.76000000000000001,
+                "blue" : 1,
+                "green" : 1
+              },
+              "ligature" : 0,
+              "kerning" : 0,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 20,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 20,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 3 16.8-20 \/ Medium Emphasis"
+      },
+      {
+        "do_objectID" : "DD6D2B02-F92C-41BA-991E-40C21697E598",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Medium",
+                  "size" : 16.79999923706055
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 1,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 1,
+                "green" : 1
+              },
+              "ligature" : 0,
+              "kerning" : 0,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 20,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 20,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 3 16.8-20 \/ High Emphasis"
+      },
+      {
+        "do_objectID" : "788E4706-0E7B-4236-8698-6B48C34089E0",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Medium",
+                  "size" : 16.79999923706055
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0.12941176470588231,
+                "_class" : "color",
+                "alpha" : 0.80000000000000004,
+                "blue" : 0.94901960784313721,
+                "green" : 0.19999999999999979
+              },
+              "ligature" : 0,
+              "kerning" : 0,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 20,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 20,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 3 16.8-20 \/ Medium Emphasis"
+      },
+      {
+        "do_objectID" : "A8284631-8166-4EBB-BE0A-554A09707E30",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 16.79999923706055
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.59999999999999998,
+                "blue" : 0,
+                "green" : 0
+              },
+              "ligature" : 0,
+              "kerning" : 0,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 20,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 20,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 3 16.8-20 \/ Medium Emphasis"
+      },
+      {
+        "do_objectID" : "D978887B-C23A-4A9F-9565-C283BCB176E5",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "ligature" : 0,
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 24.190000534057621
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.45000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 28,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 28,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 1 24.19-28 \/ Low Emphasis"
+      },
+      {
+        "do_objectID" : "3C2257C2-1E66-4879-B2D9-39E92E4FDE06",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 20.159999847412109
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.45000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "ligature" : 0,
+              "kerning" : 0.25,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 24,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 24,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 2 20.16-24 \/ Low Emphasis"
+      },
+      {
+        "do_objectID" : "96163C93-45E9-4194-BE80-6339B1524461",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 16.79999923706055
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.45000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "ligature" : 0,
+              "kerning" : 0,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 20,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 20,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 3 16.8-20 \/ Low Emphasis"
+      },
+      {
+        "do_objectID" : "559ABB16-8B0E-4B02-A7C8-61C2228435C5",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 14
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.45000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "ligature" : 0,
+              "kerning" : 0,
+              "paragraphStyle" : {
+                "minimumLineHeight" : 20,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 20,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Body 14-20 \/ Low Emphasis"
+      },
+      {
+        "do_objectID" : "1F7D4DCB-4F87-4F8C-BED6-F9AE535B6B37",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 11.659999847412109
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.45000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "ligature" : 0,
+              "kerning" : 0.60000002384185791,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 16,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 16,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Meta 11.66-16 \/ Low Emphasis"
+      },
+      {
+        "do_objectID" : "24DEBA69-E094-4108-BB7A-0C42A0FD09CF",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Medium",
+                  "size" : 14
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.45000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "textStyleVerticalAlignmentKey" : 0,
+              "kerning" : 0.20000000298023221,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 24,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 24,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Button 14 \/ Low Emphasis"
+      },
+      {
+        "do_objectID" : "4BD72A1E-8D0C-4A89-BC35-C8659F5B2338",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Medium",
+                  "size" : 16.79999923706055
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.45000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "ligature" : 0,
+              "kerning" : 0,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 20,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 20,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 3 16.8-20 \/ Low Emphasis"
+      },
+      {
+        "do_objectID" : "04CBC773-A68D-4FCB-8937-40D48C09BAFA",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "ligature" : 0,
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 24.190000534057621
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0.12941176470588231,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.94901960784313721,
+                "green" : 0.19999999999999979
+              },
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 28,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 28,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 1 24.19-28 \/ High Emphasis"
+      },
+      {
+        "do_objectID" : "24BBEDC6-E52A-46EB-82C0-180C98837356",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 20.159999847412109
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0.12941176470588231,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.94901960784313721,
+                "green" : 0.19999999999999979
+              },
+              "ligature" : 0,
+              "kerning" : 0,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 24,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 24,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 2 20.16-24 \/ High Emphasis"
+      },
+      {
+        "do_objectID" : "0BA8B967-166A-4B04-8D36-29783ECA2E6D",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 16.79999923706055
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0.12941176470588231,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.94901960784313721,
+                "green" : 0.19999999999999979
+              },
+              "ligature" : 0,
+              "kerning" : 0,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 20,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 20,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 3 16.8-20 \/ High Emphasis"
+      },
+      {
+        "do_objectID" : "EE788B88-8E8B-49B1-87D6-B1963F217971",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 14
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0.12941176470588231,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.94901960784313721,
+                "green" : 0.19999999999999979
+              },
+              "ligature" : 0,
+              "kerning" : 0,
+              "paragraphStyle" : {
+                "minimumLineHeight" : 20,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 20,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Body 14-20 \/ High Emphasis"
+      },
+      {
+        "do_objectID" : "0AE826A6-D394-4735-A18B-A1C8C10323D4",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Regular",
+                  "size" : 11.659999847412109
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0.12941176470588231,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.94901960784313721,
+                "green" : 0.19999999999999979
+              },
+              "ligature" : 0,
+              "kerning" : 0.60000002384185791,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 16,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 16,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Meta 11.66-16 \/ High Emphasis"
+      },
+      {
+        "do_objectID" : "8CF916C6-55BD-416F-BDDC-D7C112D8EC4C",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Medium",
+                  "size" : 14
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0.12941176470588231,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.94901960784313721,
+                "green" : 0.19999999999999979
+              },
+              "textStyleVerticalAlignmentKey" : 0,
+              "kerning" : 0.20000000298023221,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 24,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 24,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Button 14 \/ High Emphasis"
+      },
+      {
+        "do_objectID" : "AE6F205D-9C3F-4813-AD62-C947D710C6CF",
+        "value" : {
+          "textStyle" : {
+            "verticalAlignment" : 0,
+            "_class" : "textStyle",
+            "encodedAttributes" : {
+              "MSAttributedStringFontAttribute" : {
+                "attributes" : {
+                  "name" : "SFProText-Medium",
+                  "size" : 16.79999923706055
+                },
+                "_class" : "fontDescriptor"
+              },
+              "MSAttributedStringColorAttribute" : {
+                "red" : 0.12941176470588231,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.94901960784313721,
+                "green" : 0.19999999999999979
+              },
+              "ligature" : 0,
+              "kerning" : 0,
+              "paragraphStyle" : {
+                "alignment" : 0,
+                "minimumLineHeight" : 20,
+                "_class" : "paragraphStyle",
+                "maximumLineHeight" : 20,
+                "allowsDefaultTighteningForTruncation" : 0
+              }
+            }
+          },
+          "windingRule" : 1,
+          "_class" : "style",
+          "miterLimit" : 10,
+          "startMarkerType" : 0,
+          "endMarkerType" : 0
+        },
+        "_class" : "sharedStyle",
+        "name" : "Heading 3 16.8-20 \/ High Emphasis"
+      }
+    ],
+    "_class" : "sharedTextStyleContainer"
+  },
+  "layerSymbols" : {
+    "objects" : [
+
+    ],
+    "_class" : "symbolContainer"
+  },
+  "do_objectID" : "C1FCDFD1-CF5E-4E28-A1DD-E1E3AB9671A8",
+  "foreignTextStyles" : [
+
+  ],
+  "userInfo" : {
+    "com.invisionlabs.sync" : {
+      "metadata" : "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}
